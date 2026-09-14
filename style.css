@@ -5,6 +5,11 @@
     border-radius: 40px;
 }
 
+#text1{
+   font-size: 15px;
+   text-align: center; 
+}
+
 .box2{
     height: 100px;
     width: 600px;
