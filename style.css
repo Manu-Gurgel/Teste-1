@@ -1,11 +1,13 @@
 .box1{
     height: 100px;
-    width: 400px;
+    width: 200px;
     background-color: rgb(0, 200, 245);
+    border-radius: 40px;
 }
 
 .box2{
     height: 100px;
     width: 600px;
     background-color: rgb(0, 150, 245);
+    border-radius: 40px;
 }
