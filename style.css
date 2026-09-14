@@ -1,6 +1,6 @@
 .box1{
     height: 100px;
-    width: 200px;
+    width: 400px;
     background-color: rgb(0, 200, 245);
     border-radius: 40px;
     display: flex;
@@ -11,13 +11,13 @@
 }
 
 #text1{
-   font-size: 15px;
+   font-size: 45px;
    text-align: center; 
    margin: 0 auto;
 }
 
 .text{
-  font-size: 30px;
+  font-size: 45px;
   text-align: center;
   margin: 0 auto;
 }
@@ -27,6 +27,7 @@
     width: 600px;
     background-color: rgb(0, 150, 245);
     border-radius: 40px;
+    margin: 0 auto;
 }
 
 #text2{
