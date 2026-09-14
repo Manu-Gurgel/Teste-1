@@ -3,11 +3,15 @@
     width: 200px;
     background-color: rgb(0, 200, 245);
     border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #text1{
    font-size: 15px;
    text-align: center; 
+   margins: 0;
 }
 
 .box2{
