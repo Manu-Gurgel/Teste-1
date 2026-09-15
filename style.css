@@ -2,8 +2,8 @@
 
 .box1{
     height: 75px;
-    width: 800px;
-    background-color: rgb(245, 163, 201);
+    width: 700px;
+    background-color: rgb(252, 205, 227);
     border-radius: 40px;
     margin: 0 auto;
 }
@@ -15,7 +15,7 @@
 }
 
 .box{
-    background-color: rgb(241, 181, 135);
+    background-color: rgb(247, 205, 173);
     height: 50px;
     width: 200px;
     margin: 0 auto;
@@ -23,7 +23,7 @@
 }
 
 #text{
-  font-size: 20px;
+  font-size: 25px;
   text-align: center;
   margin: 0 auto;
 }
@@ -31,7 +31,7 @@
 .box2{
     height: 100px;
     width: 600px;
-    background-color: rgb(123, 236, 191);
+    background-color: rgb(182, 250, 205);
     border-radius: 40px;
     margin: 0 auto;
 }
@@ -44,10 +44,10 @@
 
 .box3{
     height: 50px;
-    width: 400px;
+    width: 500px;
     margin: 0 auto;
     border-radius: 40px;
-    background-color: rgb(155, 229, 250);
+    background-color: rgb(177, 233, 249);
 }
 
 #text3{
@@ -57,10 +57,10 @@
 }
 
 .box4{
-    height:250px;
+    height:100px;
     width: 800px;
     margin: 0 auto;
-    background-color: rgb(182, 133, 217);
+    background-color: rgb(217, 175, 247);
     border-radius: 40px;
 }
 
