@@ -29,11 +29,12 @@
 }
 
 .box2{
-    height: 75px;
+    height:auto;
     width: 820px;
     background-color: rgb(177, 233, 249);
     border-radius: 40px;
     margin: 0 auto;
+    padding: 8px 12px;
 }
 
 #text2{
@@ -48,7 +49,6 @@
     margin: 0 auto;
     border-radius: 40px;
     background-color: rgb(217, 140, 249);
-    padding: 8px 12px;
 }
 
 #text3{
