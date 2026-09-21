@@ -20,6 +20,7 @@
     width: 200px;
     margin: 0 auto;
     border-radius: 40px;
+    box-sizing: border-box;
 }
 
 #text{
@@ -35,6 +36,7 @@
     border-radius: 40px;
     margin: 0 auto;
     padding: 8px 12px;
+    box-sizing: border-box;
 }
 
 #text2{
@@ -49,6 +51,7 @@
     margin: 0 auto;
     border-radius: 40px;
     background-color: rgb(217, 140, 249);
+    box-sizing: border-box;
 }
 
 #text3{
@@ -64,6 +67,7 @@
     background-color: rgb(217, 175, 247);
     border-radius: 40px;
     padding: 8px 12px;
+    box-sizing: border-box;
 
 }
 
