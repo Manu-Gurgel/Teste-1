@@ -15,7 +15,7 @@
 }
 
 .box{
-    background-color: rgb(247, 205, 173);
+    background-color: rgb(130, 220, 249);
     height: 45px;
     width: 200px;
     margin: 0 auto;
@@ -31,7 +31,7 @@
 .box2{
     height: 75px;
     width: 820px;
-    background-color: rgb(182, 250, 205);
+    background-color: rgb(177, 233, 249);
     border-radius: 40px;
     margin: 0 auto;
 }
@@ -47,7 +47,8 @@
     width: 500px;
     margin: 0 auto;
     border-radius: 40px;
-    background-color: rgb(177, 233, 249);
+    background-color: rgb(217, 140, 249);
+    padding: 5px 10px;
 }
 
 #text3{
