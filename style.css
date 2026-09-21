@@ -43,7 +43,7 @@
 }
 
 .box3{
-    height: 45px;
+    height: auto;
     width: 500px;
     margin: 0 auto;
     border-radius: 40px;
@@ -58,11 +58,13 @@
 }
 
 .box4{
-    height:165px;
+    height: auto;
     width: 910px;
     margin: 0 auto;
     background-color: rgb(217, 175, 247);
     border-radius: 40px;
+    padding: 8px 12px;
+
 }
 
 #text4{
