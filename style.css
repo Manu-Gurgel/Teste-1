@@ -2,9 +2,9 @@
 
 .welcome-box{
     height: auto;
-    width: 700px;
+    width: 600px;
     background-color: rgb(255, 160, 217);
-    border-radius: 40px;
+    border-radius: 35px;
     margin: 0 auto;
 }
 
@@ -17,15 +17,15 @@
 .introduction{
     background-color: rgb(252, 190, 227);
     height:auto;
-    width:800px;
+    width:700px;
     text-align: center;
     border-radius:40px;
-    margin: 0 auto;
+    margin: 5 auto;
 
 }
 
 #introduction-text{
- font-size:25px;
+ font-size:20px;
  text-align: center;
 }
 
@@ -39,7 +39,7 @@
 }
 
 #abt-title{
-  font-size: 35px;
+  font-size: 30px;
   text-align: center;
   margin: 0 auto;
 }
@@ -55,7 +55,7 @@
 }
 
 #abt-text{
- font-size: 25px;
+ font-size: 20px;
  text-align: center;
  margin:0 auto;
 }
@@ -70,7 +70,7 @@
 }
 
 #progress-title{
- font-size: 35px;
+ font-size: 3ppx;
  margin: 0 auto;
  text-align: center; 
 }
@@ -87,7 +87,7 @@
 }
 
 #progress-text{
-    font-size: 25px;
+    font-size: 20px;
     margin: 0 auto;
     text-align: center;
 }
