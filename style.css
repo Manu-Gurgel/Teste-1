@@ -11,7 +11,7 @@
 #welcome-text{
    font-size: 40px;
    text-align: center; 
-   margin: 0 auto;
+   margin: 5 auto;
 }
 
 .introduction{
@@ -33,7 +33,7 @@
     background-color: rgb(130, 220, 249);
     height: 45px;
     width: 200px;
-    margin: 0 auto;
+    margin: 5 auto;
     border-radius: 40px;
     box-sizing: border-box;
 }
@@ -41,7 +41,7 @@
 #abt-title{
   font-size: 30px;
   text-align: center;
-  margin: 0 auto;
+  margin: 5 auto;
 }
 
 .abt-box{
@@ -49,7 +49,7 @@
     width: 820px;
     background-color: rgb(177, 233, 249);
     border-radius: 40px;
-    margin: 0 auto;
+    margin: 5 auto;
     padding: 8px 12px;
     box-sizing: border-box;
 }
@@ -57,13 +57,13 @@
 #abt-text{
  font-size: 20px;
  text-align: center;
- margin:0 auto;
+ margin:r auto;
 }
 
 .progress{
-    height: auto;
+    height: 35px;
     width: 500px;
-    margin: 0 auto;
+    margin: 5 auto;
     border-radius: 40px;
     background-color: rgb(180, 139, 238);
     box-sizing: border-box;
@@ -71,14 +71,14 @@
 
 #progress-title{
  font-size: 30px;
- margin: 0 auto;
+ margin: 5 auto;
  text-align: center; 
 }
 
 .progress-box{
     height: auto;
     width: 820px;
-    margin: 0 auto;
+    margin: 5 auto;
     background-color: rgb(199, 164, 255);
     border-radius: 40px;
     padding: 8px 12px;
@@ -88,6 +88,6 @@
 
 #progress-text{
     font-size: 20px;
-    margin: 0 auto;
+    margin: 5 auto;
     text-align: center;
 }
