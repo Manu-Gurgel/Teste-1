@@ -5,13 +5,13 @@
     width: 600px;
     background-color: rgb(255, 160, 217);
     border-radius: 35px;
-    margin: 5 auto;
+    margin: 5 5;
 }
 
 #welcome-text{
    font-size: 40px;
    text-align: center; 
-   margin: 5 auto;
+   margin: 5 5;
 }
 
 .introduction{
@@ -20,13 +20,14 @@
     width:700px;
     text-align: center;
     border-radius:40px;
-    margin: 5 auto;
+    margin: 5 5;
 
 }
 
 #introduction-text{
  font-size:20px;
  text-align: center;
+ 
 }
 
 .abt{
